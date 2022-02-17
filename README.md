@@ -1,2 +1,2 @@
-# EBROWSER
+# EcBrowser
 none
