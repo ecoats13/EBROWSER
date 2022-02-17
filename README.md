@@ -1,8 +1,5 @@
+code for leaf browser exrention
 
-## Contribution
-
-Contributions / PRs are of course welcome, but you need to be happy that your
-code will be released under any license I fancy, as project owner.
 
 ## License
 
