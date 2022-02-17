@@ -1,4 +1,4 @@
-code for leaf browser exrention
+code form leaf browser exrention
 
 
 ## License
